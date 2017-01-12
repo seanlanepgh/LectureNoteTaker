@@ -1,0 +1,13 @@
+c:\users\sean_2\documents\visual studio 2015\Projects\LAN145254583 CMP1127M Assignment Item 2\LAN145254583 CMP1127M Assignment Item 2\bin\Debug\LAN145254583 CMP1127M Assignment Item 2.exe.config
+C:\Users\Sean_2\Desktop\LAN145254583 CMP1127M Assignment Item 2\LAN145254583 CMP1127M Assignment Item 2\bin\Debug\LAN145254583 CMP1127M Assignment Item 2.exe.config
+C:\Users\Sean_2\Desktop\LAN145254583 CMP1127M Assignment Item 2\LAN145254583 CMP1127M Assignment Item 2\bin\Debug\LAN145254583 CMP1127M Assignment Item 2.exe
+C:\Users\Sean_2\Desktop\LAN145254583 CMP1127M Assignment Item 2\LAN145254583 CMP1127M Assignment Item 2\bin\Debug\LAN145254583 CMP1127M Assignment Item 2.pdb
+C:\Users\Sean_2\Desktop\LAN145254583 CMP1127M Assignment Item 2\LAN145254583 CMP1127M Assignment Item 2\obj\Debug\LAN145254583 CMP1127M Assignment Item 2.csprojResolveAssemblyReference.cache
+C:\Users\Sean_2\Desktop\LAN145254583 CMP1127M Assignment Item 2\LAN145254583 CMP1127M Assignment Item 2\obj\Debug\LAN145254583_CMP1127M_Assignment_Item_2.Properties.Resources.resources
+C:\Users\Sean_2\Desktop\LAN145254583 CMP1127M Assignment Item 2\LAN145254583 CMP1127M Assignment Item 2\obj\Debug\LAN145254583 CMP1127M Assignment Item 2.csproj.GenerateResource.Cache
+C:\Users\Sean_2\Desktop\LAN145254583 CMP1127M Assignment Item 2\LAN145254583 CMP1127M Assignment Item 2\obj\Debug\LAN145254583 CMP1127M Assignment Item 2.exe
+C:\Users\Sean_2\Desktop\LAN145254583 CMP1127M Assignment Item 2\LAN145254583 CMP1127M Assignment Item 2\obj\Debug\LAN145254583 CMP1127M Assignment Item 2.pdb
+C:\Users\Sean_2\Desktop\LAN145254583 CMP1127M Assignment Item 2\LAN145254583 CMP1127M Assignment Item 2\obj\Debug\LAN145254583_CMP1127M_Assignment_Item_2.AddModuleForm.resources
+C:\Users\Sean_2\Desktop\LAN145254583 CMP1127M Assignment Item 2\LAN145254583 CMP1127M Assignment Item 2\obj\Debug\LAN145254583_CMP1127M_Assignment_Item_2.Modnote.resources
+C:\Users\Sean_2\Desktop\LAN145254583 CMP1127M Assignment Item 2\LAN145254583 CMP1127M Assignment Item 2\obj\Debug\LAN145254583_CMP1127M_Assignment_Item_2.AddNoteForm.resources
+C:\Users\Sean_2\Desktop\LAN145254583 CMP1127M Assignment Item 2\LAN145254583 CMP1127M Assignment Item 2\obj\Debug\LAN145254583_CMP1127M_Assignment_Item_2.AddAssignmentNoteForm.resources
